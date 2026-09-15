@@ -1,0 +1,83 @@
+  html{scroll-behavior: smooth;}
+body{
+    margin: 0%;
+    background-color: rgb(138, 221, 227);
+    
+    }
+    
+    img{
+border-radius: 13px;
+
+    
+    
+    }
+
+    h1{
+    font-weight: 50;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    h2{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+font-weight: 100;
+
+    }
+    span{
+    font-weight: normal;
+    font-size:xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    header{
+        padding: 0.8rem;
+    display: flex;
+    align-items: center; 
+    font-weight: normal;
+    justify-content: space-between;
+    
+    
+    background-color: rgb(1, 35, 119);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    ul{
+    display: flex;
+    list-style:none;
+    gap: 1rem;
+    }
+    
+    
+    
+    a:link, a:visited{
+    
+    text-decoration: none;
+    color: white;
+    }
+    
+    a:hover{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: large;
+    text-decoration: wavy;
+    text-decoration: underline;
+    text-shadow: 1rem;
+    }
+    footer{
+    padding: 1rem;
+    color: rgb(12, 11, 8);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    footer:hover{
+text-decoration: underline;
+        font-size: larger;
+
+
+    }
+    
+
+
+
+    
